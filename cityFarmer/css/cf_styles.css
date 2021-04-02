@@ -1,0 +1,58 @@
+
+/*Nathaniel Olsen, 04/01/2021*/
+
+
+#outerwrapper {
+	max-width: 0.70;
+	margin-left: auto;
+	margin-right: auto;
+	
+} 
+.floatleft { 
+float: left;
+margin-right: 0.03px;
+
+}
+.floatright {
+float: right;
+margin-left: 0.03px;
+
+}
+main{ 
+clear: both;
+background-color: #c5a98b;
+padding: 10px;
+}
+
+body {
+	background-color: #b8d1eb;
+	color: #000;
+	font-family: "Times New Roman", Times, serif;
+	
+}
+h1{
+	font-family: 'Anton', sans-serif;
+}
+
+h2{
+	font-family: 'montserratblack_italic', "Times New Roman", serif;
+}
+ul {
+	list-style-image: url('/Images/smalltomato.png');
+  }
+  @font-face {
+    font-family: 'montserratblack_italic';
+    src: url('/fonts/montserrat-blackitalic-webfont.woff2') format('woff2'),
+         url('/fonts/montserrat-blackitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+  footer{
+	  text-align: center;
+	  font-size: .75em;
+	  background-color: aquamarine;
+	  clear: both;
+	  padding-top: 10px;
+	  padding-bottom: 10px;
+  }
+
