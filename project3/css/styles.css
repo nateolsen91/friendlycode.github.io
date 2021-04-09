@@ -1,0 +1,73 @@
+
+/*Nathaniel Olsen/04/09/21*/
+
+
+@font-face {
+	font-family: 'OpenSans-Italic.ttf';
+	src: url('opensans-italic-webfont.woff') format('woff2'),
+		 url('opensans-italic-webfont.woff2') format('woff');
+	font-weight: normal;
+	font-style: normal;
+  
+  }
+  
+
+	 
+#outerwrapper {	
+
+	background: rgba(243,205,170, 0.4);
+	border-radius: 15%;
+	max-width: 70%;	
+	align-content: center;
+	background-image: url(../images/jewelry.jpg);
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: cover;
+	
+}
+
+.addrightmargin{
+	margin-right: 10%;
+}
+
+footer{
+	font-size: 1em;
+	text-align: center;
+	padding: 10px;
+}
+
+main{
+	
+	padding: 10px;
+	margin: 20px;
+	border-radius: 2em;
+	font-size: 1.25em;
+	font-family:'Times New Roman', Times, serif;
+	background: linear-gradient(#FFFFFF,
+								#f0f9e6);
+}
+
+img{
+	float: left;
+	border-radius: 100px;
+}
+nav{
+	font-size: 1.5em;
+	float: none;
+	
+}
+
+h1{
+	font-family: 'Pacifico', cursive;
+	font-size: 4em;
+}
+h2{
+	font-family: 'opensans-italic', "Times New Roman", serif;
+	font-style: italic;
+	font-size: 2em;
+}
+th{
+	background-color: rgba(219, 106, 0, 0.4);
+	
+}
+
