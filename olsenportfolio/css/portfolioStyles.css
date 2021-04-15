@@ -1,0 +1,209 @@
+@font-face {
+    font-family: 'montserratblack_italic';
+    src: url('/fonts/montserrat-blackitalic-webfont.woff2') format('woff2'),
+         url('/fonts/montserrat-blackitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+#para1 {
+    color:rgb(0, 0, 0);
+    text-align: center;                        
+    font-family:serif;                        
+    font-weight:bold;                        
+    text-transform:none;   
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#para2 {
+    color:rgb(0, 0, 0);
+    text-align: center;                        
+    font-family:serif;                                                
+    text-transform:none;   
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.1em;
+    
+}
+
+#para3 {
+    color:rgb(0, 0, 0);
+    text-align: center;                        
+    font-family: 'montserratblack_italic', "Times New Roman", serif;                                              
+    text-transform:none; 
+    margin-left: auto;
+    margin-right: auto;  
+    
+}
+
+#para4 {
+    color:rgb(0, 0, 0);
+    text-align: center;                        
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;                                              
+    text-transform:none;
+    font-weight: bolder; 
+    margin-left: auto;
+    margin-right: auto;  
+    
+}
+#para5 {
+    
+    color:rgb(63, 7, 7);
+    font-size: 1.2em;
+    text-align: center;                        
+    font-family:serif;                        
+    font-weight:bold;                        
+    text-transform:lowercase;   
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.footer1 {
+    color:rgb(0, 0, 0);
+    text-align: center;                                               
+    font-weight:bold; 
+    font-size: 1rem;                       
+    text-transform:none;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'opensans-italic', "Times New Roman", serif;
+    
+}
+
+
+.about-main{
+    text-align: center;
+}
+
+a:link{
+    color: black;
+    
+}
+a:visited{
+    color: black;
+}
+a:hover{
+    color: blue;
+}
+a:active{
+    color: rgb(23, 175, 23);
+}
+
+h1 {
+
+    color:rgb(0, 4, 10);   
+    text-align: center;                        
+    font-family:serif;                        
+    font-weight:bold;                        
+    text-transform:none; 
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h2  {
+    color:rgb(0, 0, 0);
+    text-align: center;                        
+    font-family:serif;                        
+    font-weight:bold;                        
+    text-transform:none;
+    font-family: 'montserratblack_italic', "Times New Roman", serif;
+	font-size: 1.2em;
+}
+aside{
+    text-align: center;
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+h3{
+    font-family: 'montserratblack_italic', "Times New Roman", serif;
+}
+
+
+.link1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+/*body > nav > ul > li{
+    list-style-image: url(images/small-logo.png);
+}*/
+
+.pic1{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border-width: 10px;
+}
+
+section{
+    font-weight: 200;
+    color: black;
+	max-width: 70%;	
+    align-content: center;
+    background-repeat: no-repeat;
+    
+}
+
+
+
+
+.mainbod{
+    background-image: repeating-radial-gradient(rgb(76, 99, 54), rgb(114, 114, 136));
+    
+}
+
+.aboutbod{
+    background-image: repeating-linear-gradient(rgb(90, 136, 90), rgb(126, 126, 189));
+}
+
+.edbod{
+    background-image: repeating-linear-gradient(rgb(90, 136, 90), rgb(126, 126, 189));
+    
+}
+
+#edimg{
+    margin-top: 25px;
+    margin-bottom: 20px;
+    float: right;
+    
+    
+}
+
+form{
+    display:-ms-flexbox;
+    text-align: center;
+    color: rgb(251, 252, 255);
+    
+}
+hr{
+    width: 50%;
+}
+#hobbies{
+    
+    color:rgb(94, 61, 148);
+    text-align: center;                        
+    background-image: repeating-linear-gradient(rgb(90, 136, 90), rgb(126, 126, 189));                                              
+    text-transform:none;
+    font-weight: bolder; 
+    margin-left: auto;
+    margin-right: auto;  
+}
+#hobbieTitle{
+    color:rgb(5, 5, 10);
+    font-family: 'montserratblack_italic', "Times New Roman", serif;
+}
+
+
+
+
+
+                                      
+              
+             
+
