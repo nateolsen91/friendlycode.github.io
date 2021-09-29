@@ -1,0 +1,36 @@
+table {
+  display:-ms-flexbox;
+    width: 100%;
+    background-image: repeating-radial-gradient(rgb(174, 211, 140), rgb(114, 114, 136));
+    border-collapse: collapse;
+    border-width: 1px;
+    border-color: #d10a0a; 
+    border-style: solid;
+    color: #000000;
+    margin-bottom: 20px;
+  }
+  
+  table td, th {
+    display:-ms-flexbox;
+    border-width: 1px;
+    border-color: #0ad893;
+    border-style: solid;
+    padding: 15px;
+  }
+  
+  table thead {
+    background-color: #fdfdfd;
+  }
+
+  @font-face {
+	font-family: 'OpenSans-Italic.ttf';
+	src: url('opensans-italic-webfont.woff') format('woff2'),
+		 url('opensans-italic-webfont.woff2') format('woff');
+	font-weight: normal;
+	font-style: normal;
+  
+  }
+
+
+  
+  
